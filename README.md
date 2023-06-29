@@ -6,12 +6,6 @@
 
 ## 公众号
 
-|微信（冴羽本人）|公众号|
-|:----:|:----:|
-|<img src="https://user-images.githubusercontent.com/11458263/156172823-5af1316e-2a3e-4f48-9908-682a74adb540.jpeg" width="120">|<img src="https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/qrcode_for_gh_bd1a3dc9eafd_258.jpg" width="120">|
-|mqyqingfeng|冴羽的 JavaScript 博客|
-|[加入低调务实优秀中国好青年社群](https://www.yuque.com/yayu/nice-people/xou8qr)|文章同步更新|
-
 ## 专栏
 
 * [掘金](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
